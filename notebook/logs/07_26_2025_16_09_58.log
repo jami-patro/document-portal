@@ -1,0 +1,20 @@
+[ 2025-07-26 16:10:01,897 ] ERROR exception_experiment (line:26) - 
+        Error in [/var/folders/n4/rqwc0r8s18n6b6jwqd20vv5h0000gn/T/ipykernel_8735/11436085.py] at line [22]
+        Message: division by zero
+        Traceback:
+        Traceback (most recent call last):
+  File "/var/folders/n4/rqwc0r8s18n6b6jwqd20vv5h0000gn/T/ipykernel_8735/11436085.py", line 22, in <module>
+    a = 1 / 0
+ZeroDivisionError: division by zero
+
+        
+[ 2025-07-26 16:10:07,528 ] ERROR exception_experiment (line:26) - 
+        Error in [/var/folders/n4/rqwc0r8s18n6b6jwqd20vv5h0000gn/T/ipykernel_8735/11436085.py] at line [22]
+        Message: division by zero
+        Traceback:
+        Traceback (most recent call last):
+  File "/var/folders/n4/rqwc0r8s18n6b6jwqd20vv5h0000gn/T/ipykernel_8735/11436085.py", line 22, in <module>
+    a = 1 / 0
+ZeroDivisionError: division by zero
+
+        
