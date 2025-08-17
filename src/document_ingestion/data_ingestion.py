@@ -157,7 +157,7 @@ class ChatIngestor:
             
             ## FAISS manager very very important class for the docchat
             fm = FaissManager(self.faiss_dir, self.model_loader)
-            
+            #9124255202
             texts = [c.page_content for c in chunks]
             metas = [c.metadata for c in chunks]
             
