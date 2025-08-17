@@ -17,6 +17,7 @@ Parameters:
   ImageUrl:
     Type: String
     Description: ECR Image URI to use for container
+    Default: "986323538356.dkr.ecr.us-west-2.amazonaws.com/documentportal:latest"
 
 Resources:
   MyECRRepository:
