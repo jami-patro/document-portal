@@ -29,11 +29,11 @@
         "secrets": [
           {
             "name": "GROQ_API_KEY",
-            "valueFrom": "arn:aws:secretsmanager:us-east-2:986323538356:secret:GROQ_API_KEY-ytdUT4"
+            "valueFrom": "arn:aws:secretsmanager:us-east-2:986323538356:secret:GROQ_API_KEY-cNva63"
           },
           {
             "name": "GOOGLE_API_KEY",
-            "valueFrom": "arn:aws:secretsmanager:us-east-2:986323538356:secret:GOOGLE_API_KEY-hqsaZX"
+            "valueFrom": "arn:aws:secretsmanager:us-east-2:986323538356:secret:GOOGLE_API_KEY-2EEMBs"
           }
         ],
         "logConfiguration": {
