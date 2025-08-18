@@ -33,7 +33,7 @@
           },
           {
             "name": "GOOGLE_API_KEY",
-            "valueFrom": "arn:aws:secretsmanager:us-east-2:986323538356:secret:GOOGLE_API_KEY-hqsaZX:GOOGLE_API_KEY::"
+            "valueFrom": "arn:aws:secretsmanager:us-east-2:986323538356:secret:GOOGLE_API_KEY-2EEMBs:GOOGLE_API_KEY::"
           }
         ],
         "logConfiguration": {
