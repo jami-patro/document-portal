@@ -6,7 +6,7 @@ on:
       - "dev"
 
 env:
-  AWS_REGION: us-west-2
+  AWS_REGION: us-east-2
   ECR_REPOSITORY: documentportal
   ECS_SERVICE: document-portal-service
   ECS_CLUSTER: document-portal-cluster
