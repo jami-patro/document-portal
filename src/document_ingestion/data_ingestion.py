@@ -24,7 +24,7 @@ from utils.document_ops import load_documents, concat_for_analysis, concat_for_c
 
 SUPPORTED_EXTENSIONS = {".pdf", ".docx", ".txt"}
 
-# FAISS Manager (load-or-create)
+# FAISS Manager (load-or-create) indexing and retrieval
 class FaissManager:
     def __init__(self, index_dir: Path, model_loader: Optional[ModelLoader] = None):
         self.index_dir = Path(index_dir)
